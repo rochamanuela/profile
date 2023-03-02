@@ -1,2 +1,11 @@
 # profile
-<h1>Manuela :)</h1>
+<head>
+  <style>
+    body {
+      background-color: purple;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi, welcome</h1>
+</body>
