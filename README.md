@@ -1,11 +1,4 @@
 # profile
-<head>
-  <style>
-    body {
-      background-color: purple;
-    }
-  </style>
-</head>
-<body>
+<body style="background-color: purple;">
   <h1>Hi, welcome</h1>
 </body>
